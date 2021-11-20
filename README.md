@@ -24,7 +24,7 @@ Java Core для тестировщиков
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Mybono/JavaCore_for_QC)
 
 
-[telegram]: https://t.me/def4fun
+[telegram]: https://t.me/def4get
 [logotelegram]: https://github.com/Mybono/Mybono/blob/main/assets/telegran%2035%20px.png
 [linkedin]: http://linkedin.com/def-say-hello
 [logolinkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linedin%2035px.png
