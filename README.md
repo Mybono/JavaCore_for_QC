@@ -3,15 +3,15 @@ Java Core для тестировщиков
 
 ### Java. Уровень 1
 
-+ Lesson 1 / [Video]() / [Homework]() / [ReadMe]() / [Presentation]()
-+ Lesson 2 / [Video]() / [Homework]() / [ReadMe]() / [Presentation]()
-+ Lesson 3 / [Video]() / [Homework]() / [ReadMe]() / [Presentation]()
-+ Lesson 4 / [Video]() / [Homework]() / [ReadMe]() / [Presentation]()
-+ Lesson 5 / [Video]() / [Homework]() / [ReadMe]() / [Presentation]()
-+ Lesson 6 / [Video]() / [Homework]() / [ReadMe]() / [Presentation]()
-+ Lesson 7 / [Video]() / [Homework]() / [ReadMe]() / [Presentation]()
-+ Lesson 8 / [Video]() / [Homework]() / [ReadMe]() / [Presentation]()
-+ Lesson 9 / [Video]() / [Homework]() / [ReadMe]() / [Presentation]()
++ Lesson 1 / [Homework]() / [ReadMe]() / [Video]()
++ Lesson 2 / [Homework]() / [ReadMe]() / [Video]()
++ Lesson 3 / [Homework]() / [ReadMe]() / [Video]()
++ Lesson 4 / [Homework]() / [ReadMe]() / [Video]()
++ Lesson 5 / [Homework]() / [ReadMe]() / [Video]()
++ Lesson 6 / [Homework]() / [ReadMe]() / [Video]()
++ Lesson 7 / [Homework]() / [ReadMe]() / [Video]()
++ Lesson 8 / [Homework]() / [ReadMe]() / [Video]()
++ Lesson 9 / [Homework]() / [ReadMe]() / [Video]()
 
 
 
