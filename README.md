@@ -21,7 +21,7 @@ Java Core для тестировщиков
 
 ![](https://github.com/Mybono/Mybono/blob/main/assets/java%20wp.jpeg "wp")
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Mybono/java_lvl_1)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Mybono/JavaCore_for_QC)
 
 
 [telegram]: https://t.me/def4fun
