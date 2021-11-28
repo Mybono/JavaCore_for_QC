@@ -3,8 +3,8 @@ Java Core для тестировщиков
 
 ### Java. Уровень 1
 
-+ Lesson 1 / [Homework](https://github.com/Mybono/JavaCore_for_QC/blob/main/lesson1.md) / [ReadMe]() / [Video]()
-+ Lesson 2 / [Homework](https://github.com/Mybono/JavaCore_for_QC/blob/main/lesson2.md) / [ReadMe]() / [Video]()
++ Lesson 1 / [Homework](https://github.com/Mybono/JavaCore_for_QC/blob/main/lesson1.md) / [ReadMe]() / [Video](https://youtu.be/skUc1R30nhE)
++ Lesson 2 / [Homework](https://github.com/Mybono/JavaCore_for_QC/blob/main/lesson2.md) / [ReadMe]() / [Video](https://youtu.be/DNBas6Rswtw)
 + Lesson 3 / [Homework](https://github.com/Mybono/JavaCore_for_QC/blob/main/lesson3.md) / [ReadMe]() / [Video]()
 + Lesson 4 / [Homework]() / [ReadMe]() / [Video]()
 + Lesson 5 / [Homework]() / [ReadMe]() / [Video]()
