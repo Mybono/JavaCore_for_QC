@@ -8,8 +8,9 @@
 Написать метод, который позволяет пересыпать фрукты из текущей коробки в другую. Помним про сортировку фруктов: нельзя яблоки высыпать в коробку с апельсинами. Соответственно, в текущей коробке фруктов не остается, а в другую перекидываются объекты, которые были в первой;
 Не забываем про метод добавления фрукта в коробку.
 
-[Apple](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/Apple)
-[BoxFruit](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/BoxFruit)
-[Fruit](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/Fruit)
-[LessonFruits](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/LessonFruits)
-[Orange](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/Orange)
+- [Apple](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/Apple)
+- [BoxFruit](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/BoxFruit)
+- [Fruit](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/Fruit)
+- [LessonFruits](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/LessonFruits)
+- [Orange](https://github.com/Mybono/JavaCore_for_QC/blob/Mybono-lesson3/Orange)
+
